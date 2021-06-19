@@ -1,0 +1,4 @@
+INFO:root:2021-06-19 10:35:12.554101 - 1857 records retrieved from mongo
+INFO:root:2021-06-19 10:35:12.877670 - text cleaned
+INFO:root:2021-06-19 10:35:27.899751 - raw text languages found
+INFO:root:2021-06-19 10:57:24.539292 - 1058 records translated

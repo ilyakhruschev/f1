@@ -1,0 +1,9 @@
+INFO:root:2021-06-18 17:47:10.111143 - 10 records retrieved from mongo
+INFO:root:2021-06-18 17:47:10.123646 - text cleaned
+INFO:root:2021-06-18 17:47:10.535888 - raw text languages found
+INFO:root:2021-06-18 17:47:15.463626 - 6 records translated
+INFO:root:2021-06-18 17:47:15.467550 - sending tweet table to postgres
+INFO:root:2021-06-18 17:47:15.617588 - export successful
+INFO:root:sending users mentioned table to postgres
+INFO:root:export successful
+INFO:root:ETL COMPLETE
