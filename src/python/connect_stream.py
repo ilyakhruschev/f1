@@ -61,7 +61,6 @@ def getRules():
 
 
 def deleteRules(response2):
-
     response2 = getRules()
     ids = [i['id'] for i in response2['data']]
     payload = {"delete": {"ids": ids}}
